@@ -11,7 +11,7 @@ def my_collect(a)
     return_array <<yield (a [i])
     i +=1
   end
-  return return_array
+  return return_array 
 end
 
 array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
