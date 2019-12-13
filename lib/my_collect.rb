@@ -1,4 +1,4 @@
-def my_collect(ar)
+def my_collect(a)
   
   # It should take in an argument of a collection, 
   # iterate over that collection using a while loop, 
