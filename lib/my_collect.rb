@@ -8,7 +8,7 @@ def my_collect(a)
   i = 0
   return_array = []
   while i < a.length
-    return_array <<yield (a [i])
+    return_array <<yield(a [i])
     i +=1
   end
   return return_array 
