@@ -1,4 +1,4 @@
-def my_collect
+def my_collect(ar)
   
   # It should take in an argument of a collection, 
   # iterate over that collection using a while loop, 
@@ -8,4 +8,4 @@ def my_collect
   
 end
 
-a= ["Tim Jones", "Tom Smith", "Jim Campagno"]
+array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
