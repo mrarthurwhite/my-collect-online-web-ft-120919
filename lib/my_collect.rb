@@ -6,8 +6,9 @@ def my_collect(a)
   # with for each element in the collection (use the yield keyword). 
   # It should return the modified collection.
   i = 0
+  return_array = []
   while i < a.length
-    yield (a [i])
+    return_array <<yield (a [i])
     i +=1
   end
   
