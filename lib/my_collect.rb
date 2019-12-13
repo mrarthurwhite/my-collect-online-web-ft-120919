@@ -8,3 +8,4 @@ def my_collect
   
 end
 
+a= ["Tim Jones", "Tom Smith", "Jim Campagno"]
